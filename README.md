@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou Miguel Luz! 👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 2º semestre. Estou apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados!
 
