@@ -1,4 +1,4 @@
-# Olá, eu sou Miguel Luz! 👋
+ # Olá, eu sou Miguel Luz! 👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 2º semestre. Estou apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados!
 
@@ -8,14 +8,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 2º semes
 - 💻 Interesses: Desenvolvimento web, programação e design de software
 - 🌱 Aprendendo: JavaScript, React, Node.js e banco de dados
 - ⚡ Curiosidade: Adoro resolver problemas e criar soluções que ajudem as pessoas
-
-## Projetos
-
-Aqui estão alguns dos projetos que já desenvolvi:
-
-- [Projeto 1](link-do-projeto-1): Descrição do projeto.
-- [Projeto 2](link-do-projeto-2): Descrição do projeto.
-- [Projeto 3](link-do-projeto-3): Descrição do projeto.
 
 ## Contato
 
